@@ -1,0 +1,1 @@
+# TaskSync-Gerenciador-de-Tarefas-CLI-API-REST
