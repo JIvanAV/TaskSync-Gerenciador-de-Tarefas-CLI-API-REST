@@ -87,6 +87,5 @@ WebSocket
 O sistema também suporta WebSocket para comunicação em tempo real. Para começar, conecte-se ao WebSocket usando a URL ws://localhost:8080/ws e comece a receber atualizações sobre as tarefas.
 
 
-#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#
-                    CONTATO: joseivanabrantes@gmail.com
-#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#
+
+CONTATO: joseivanabrantes@gmail.com
